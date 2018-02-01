@@ -11,4 +11,4 @@
 4. Click on the "Create New Key"
 5. Make sure your API-key is read-only, the checkboxes "Enable Trading" and "Enable Withdrawals" should be unticked
 
-  ![api-key-menu](how-to/api-key-read-only.png)
+  ![api-key-read-only](how-to/api-key-read-only.png)
